@@ -3,7 +3,7 @@
 ### Structural Type System
 - Also called “duck typing” or “structural typing”.
 - In a structural type system, if two objects have the same shape, they are considered to be of the same type.
-```
+```ts
 	interface Point {
 	  x: number;
 	  y: number;
